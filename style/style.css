@@ -1,0 +1,25 @@
+header, footer {
+    background-color: red;
+}
+span {
+    background-color: brown;
+}
+nav {
+    background-color: orange;
+}
+ul {
+    background-color: pink;
+}
+li {
+    background-color: purple;
+}
+section {
+    background-color: yellow;
+}
+
+aside {
+    background-color: blue;
+}
+article {
+    background-color: green;
+}

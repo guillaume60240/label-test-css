@@ -1,0 +1,45 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+header,
+footer {
+  background-color: red;
+  height: 10vh;
+}
+
+header {
+  padding: 1rem;
+}
+span {
+  background-color: brown;
+}
+nav {
+  background-color: orange;
+}
+ul {
+  background-color: pink;
+  margin: 0;
+}
+li {
+  background-color: purple;
+}
+
+main {
+  flex: 1;
+}
+section {
+  background-color: yellow;
+}
+aside {
+  background-color: blue;
+}
+article {
+  background-color: green;
+}
+
+footer {
+}
